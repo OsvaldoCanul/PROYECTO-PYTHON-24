@@ -4,7 +4,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def Hola(): 
-    return '<h1>Bienvenido al sitio Web de Osvaldo Canul  </h1>' 
+    return '<h1>Bienvenido al sitio Web de Osvaldo Canul cauich </h1>' 
 @app.route('/plantilla')
 def plantilla():
     data={
